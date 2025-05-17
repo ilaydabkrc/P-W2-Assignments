@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Week_2\Tatil\bin\Debug\net6.0\Tatil.exe
+C:\Users\PC\source\repos\Week_2\Tatil\bin\Debug\net6.0\Tatil.deps.json
+C:\Users\PC\source\repos\Week_2\Tatil\bin\Debug\net6.0\Tatil.runtimeconfig.json
+C:\Users\PC\source\repos\Week_2\Tatil\bin\Debug\net6.0\Tatil.dll
+C:\Users\PC\source\repos\Week_2\Tatil\bin\Debug\net6.0\Tatil.pdb
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.AssemblyInfo.cs
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.dll
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\refint\Tatil.dll
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.pdb
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\Tatil.genruntimeconfig.cache
+C:\Users\PC\source\repos\Week_2\Tatil\obj\Debug\net6.0\ref\Tatil.dll
