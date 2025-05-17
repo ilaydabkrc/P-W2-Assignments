@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\bin\Debug\net6.0\Hafta2_Kapanis.exe
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\bin\Debug\net6.0\Hafta2_Kapanis.deps.json
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\bin\Debug\net6.0\Hafta2_Kapanis.runtimeconfig.json
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\bin\Debug\net6.0\Hafta2_Kapanis.dll
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\bin\Debug\net6.0\Hafta2_Kapanis.pdb
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.AssemblyInfo.cs
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.dll
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\refint\Hafta2_Kapanis.dll
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.pdb
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\Hafta2_Kapanis.genruntimeconfig.cache
+C:\Users\PC\source\repos\Week_2\Hafta2_Kapanis\obj\Debug\net6.0\ref\Hafta2_Kapanis.dll
